@@ -1,0 +1,15 @@
+{
+  "name": "sjkbdsuihbds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yt-converter": "^1.3.2"
+  }
+}
